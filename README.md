@@ -18,6 +18,7 @@ Boton para encriptar/desencriptar y copiar.
 Ingresa el texto que deseas encriptar/desencriptar en el espacio "Ingrese el texto aqui".
 Para activar las funciones utiliza el boton encriptador o desencriptar para codificar o desencriptar el texto.
 Utiliza el boton copiar para usar el texto encriptado/desencriptar.
+Se recomienda ejecutar desde el visual code el index.
 Recuerda no puedes usar letras mayusculas o caracteres especiales.
 
 <h1>Conclusiones</h1>
